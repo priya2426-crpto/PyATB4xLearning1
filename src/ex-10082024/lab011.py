@@ -1,0 +1,9 @@
+#long_var_name_is_created_here="hello"
+#print(long_var_name_is_created_here)
+a=10
+b=10
+c=10
+sum=a+b+c
+Sum=sum-11
+sum=sum+1
+print(sum)

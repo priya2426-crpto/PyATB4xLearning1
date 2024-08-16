@@ -1,0 +1,9 @@
+age=65
+a=10
+_=45
+_=_+1
+print(_)
+abc123=78
+print(type(name))
+print(type(ismale))
+print(type(3.14))
