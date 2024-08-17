@@ -3,9 +3,9 @@
 
 age=65
 #binary - base system-->2
-Binary_number=ob100
+Binary_number=0b100
 
-hex--> base 16
+#hex--> base 16
 
 pi=3.14
 
