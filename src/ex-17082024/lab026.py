@@ -8,7 +8,7 @@ how_many_lambo_pramod=-1
 print(how_many_lambo_pramod)
 
 #Arithmetic operator
-3 +,-,*,/
+# +,-,*,/
 print(2+2)
 print(2-2)
 print(2*2)
