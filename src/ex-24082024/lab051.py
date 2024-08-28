@@ -3,7 +3,7 @@
 #block of coe which can be reused
 # A function in python is a block of organised, reuseable code that is use to perform a specific task.
 #function are define in python using the def keyword,followed by the function name an parentheses().
-#efinition
+#definition
 #calling
 # they may or may not return something
 
